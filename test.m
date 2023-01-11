@@ -1,0 +1,3 @@
+colormap winter
+
+cmap = colormap
